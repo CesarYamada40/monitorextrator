@@ -1,0 +1,7 @@
+Loja    IP  DNS Porta HTTP  Porta TCP   Gateway DDNS    Quantidade de câmeras  Horário de abertura e fechamento
+Loja 1  192.168.0.1 dns1.com.br  80  5555    192.168.0.254   ddns.com.br  8   08:00 - 18:00
+Loja 2  192.168.0.2 dns2.com.br  80  5555    192.168.0.254   ddns.com.br  8   08:00 - 18:00Loja Exemplo	192.168.0.10	8.8.8.8	8000	37777	192.168.0.1	ovestcasa.ddns.com.br	32	09h00 as 18h00
+Loja Exemplo	192.168.0.10	8.8.8.8	8000	37777	192.168.0.1	ovestcasa.ddns.com.br	32	09h00 as 18h00
+Loja Exemplo	192.168.0.10	8.8.8.8	8000	37777	192.168.0.1	ovestcasa.ddns.com.br	32	09h00 as 18h00
+Loja Exemplo	192.168.0.10	8.8.8.8	8000	37777	192.168.0.1	ovestcasa.ddns.com.br	32	09h00 as 18h00
+Loja Exemplo	192.168.0.10	8.8.8.8	8000	37777	192.168.0.1	lojasexemplovestcasa.com.br	32	09h00 as 18h00
